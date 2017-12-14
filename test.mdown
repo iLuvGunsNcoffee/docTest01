@@ -1,1 +1,4 @@
 # This is a test!!! (from RyanM @ work)
+
+# Details
+For the purposes of this test please be sure to use Markdown formatting.
